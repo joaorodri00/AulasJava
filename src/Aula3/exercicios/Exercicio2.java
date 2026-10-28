@@ -15,5 +15,6 @@ public class Exercicio2 {
         }else {
             System.out.println("O valor total da compra: R$" + valorCompra);
         }
+        scanner.close();
     }
 }

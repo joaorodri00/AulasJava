@@ -16,5 +16,6 @@ public class Exercicio6 {
         }else {
             System.out.println("Infelizmente você foi REPROVADO!! SUA NOTA FOI: " + nota);
         }
+        scanner.close();
     }
 }

@@ -21,5 +21,6 @@ public class Exercicio5 {
         } else {
             System.out.println("\nO funcionário não realizou horas extras.");
         }
+        scanner.close();
     }
 }

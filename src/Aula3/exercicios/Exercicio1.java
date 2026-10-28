@@ -19,5 +19,7 @@ public class Exercicio1 {
             System.out.println("Acesso negado (Permitido apenas Maiores de 18)");
         }
         System.out.println("Sua idade é: " + idade);
+
+        scanner.close();
     }
 }

@@ -21,5 +21,6 @@ public class Exercicio4 {
         }else {
             System.out.println("O valor total da venda: R$");
         }
+        scanner.close();
     }
 }

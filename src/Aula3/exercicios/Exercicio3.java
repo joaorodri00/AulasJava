@@ -25,7 +25,6 @@ public class Exercicio3 {
                 System.out.println("Este produto pertence a categoria: VESTUARIO");
                 break;
         }
-
-
+        scanner.close();
     }
 }
