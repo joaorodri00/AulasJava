@@ -21,7 +21,7 @@ public class Exercicio2 {
         if (posicao != -1) {
             System.out.println("A letra está na posição " + posicao);
         } else {
-            System.out.println("A letra não está no vetor.");
-        }
+            System.out.println("A letra não está na lista.");
+        }sc.close();
     }
 }
