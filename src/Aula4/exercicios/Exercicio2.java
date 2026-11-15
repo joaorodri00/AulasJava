@@ -1,7 +1,7 @@
 package Aula4.exercicios;
 
 public class Exercicio2 {
-    static void main(String[] args) {
+    static void main() {
         int soma = 0;
         int numero = 1;
 

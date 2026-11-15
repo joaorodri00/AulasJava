@@ -1,8 +1,9 @@
 package Aula4.exercicios;
 
 import java.util.Scanner;
+
 public class Exercicio3 {
-    static void main(String[] args) {
+    static void main() {
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("Digite um número inteiro positivo: ");
