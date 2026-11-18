@@ -10,8 +10,8 @@ public class Exercicio7 {
         boolean resultadoOR = cond1 || cond2;
         boolean resultadoMisto = (cond1 && cond2) || cond3;
 
-        System.out.println("Resultado AND (cond1 && cond3) " + resultadoAND);
-        System.out.println("Resultado OR (cond1 || cond2) " + resultadoOR);
-        System.out.println("Resultado Misto ((cond1 && cond2) || cond3) " + resultadoMisto);
+        System.out.print("Resultado AND (cond1 && cond3) " + resultadoAND);
+        System.out.print("Resultado OR (cond1 || cond2) " + resultadoOR);
+        System.out.print("Resultado Misto ((cond1 && cond2) || cond3) " + resultadoMisto);
     }
 }

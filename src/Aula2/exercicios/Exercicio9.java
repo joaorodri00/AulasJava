@@ -1,6 +1,7 @@
 package Aula2.exercicios;
 
-public class Exercicio9 {
+public class
+Exercicio9 {
     static void main(String[] args) {
         float valorFloat = 8.90f;
 
