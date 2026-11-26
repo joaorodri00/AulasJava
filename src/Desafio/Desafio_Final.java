@@ -12,7 +12,7 @@ public class Desafio_Final {
         int op = 0;
 
         while (op != 5) {
-            System.out.print("""
+            System.out.printf("""
                     
                     Digite a categoria desejada:
                     1) Cadastrar Usuário
@@ -47,7 +47,7 @@ public class Desafio_Final {
         }
     }
 
-    // 1 cadastrar usuario
+    //1 cadastrar usuario
     public static void cadastrarUsuario() {
         System.out.println("\n--- Cadastro de Usuário ---");
 
@@ -69,7 +69,7 @@ public class Desafio_Final {
         System.out.println("Usuário cadastrado com sucesso!");
     }
 
-    // 2 consultar usuario
+    //2 consultar usuario
     public static void consultarUsuarios() {
         System.out.println("\n--- Lista de Usuários Cadastrados ---");
 
@@ -86,7 +86,7 @@ public class Desafio_Final {
         }
     }
 
-    // 3 atualizar usuario
+    //3 atualizar usuario
     public static void atualizarUsuario() {
         System.out.println("\n--- Atualizar Usuário ---");
 
@@ -117,7 +117,7 @@ public class Desafio_Final {
         }
     }
 
-    // 4 deletar usuario
+    //4 deletar usuario
     public static void deletarUsuario() {
         System.out.println("\n--- Deletar Usuário ---");
 
